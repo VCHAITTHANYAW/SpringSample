@@ -1,0 +1,9 @@
+looseCoupling\LooseCouplingApp.class
+tightcoupling\TightCouplingApp.class
+looseCoupling\Ftp.class
+tightcoupling\Smtp.class
+looseCoupling\LooseCoupling.class
+looseCoupling\Smtp.class
+looseCoupling\Transport.class
+tightcoupling\Ftp.class
+tightcoupling\TightCoupling.class
